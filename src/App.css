@@ -1,0 +1,59 @@
+.center-btn{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.menu {
+  width: 15%;
+  height: 800px;
+  background: #001847;
+  box-shadow: #010714;
+}
+
+.column {
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 15px 15px;
+}
+
+.title-menu {
+  font-size: 1.3rem;
+  color: #ffffff;
+  height: 1.5rem;
+  padding: 14px;
+  padding-left: 3%;
+
+}
+
+.icon-menu {
+  margin: 0px 5px;
+}
+
+.icon-Right {
+  padding: 0px 40px;
+ 
+
+}
+
+
+.icon-activate{
+  animation-duration: 2s;
+  transform: rotate(90deg);
+}
+
+.activate {
+  color: aqua;
+  background: #010714;
+  border-radius: 5px;
+
+}
+
+.link-menu {
+  text-decoration: none;
+  color: aqua;
+}
+
+.table {
+  width: 100%;
+  padding: 10px;
+}

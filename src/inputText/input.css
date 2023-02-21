@@ -1,0 +1,31 @@
+.InputText{
+    display: flex;
+    margin: 5px;
+    flex-direction: column;
+}
+.row{
+display: flex;
+width: 100%;
+flex-direction: row;
+
+}
+.label{
+    color: white;
+    margin: 5px;
+    margin: 10px 5px 5px 5px;
+}
+#input{
+    border-radius: 5px ;
+    border: 1.5px solid #07F2DB;
+    padding-left: 5px;
+    color: white;
+    height: 2rem;
+    background: #1a3365c7;
+    margin: 0px 5px;
+}
+input::placeholder {
+    color: #7a93c4;
+  }
+  .App{
+background: #021740;
+  }

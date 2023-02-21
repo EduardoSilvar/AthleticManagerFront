@@ -1,0 +1,169 @@
+
+.boll{
+    animation-duration: 5s;
+    animation-name: slidein-boll;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(60deg) translateY(100px) translateX(185px);
+      }
+    to {
+          transform: rotate(120deg) translateY(1px) translateX(-5px);
+      }
+  
+  }
+  /*
+  .boll-inverse{
+    animation-duration: 5s;
+    animation-name: slidein-boll-inverse;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll-inverse {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(60deg) translateY(-110px) translateX(-180px);
+      }
+    to {
+          transform: rotate(120deg) translateY(0px) translateX(5px);
+      }
+  
+  }
+  
+  .boll-tuo-inverse{
+    animation-duration: 5s;
+    animation-name: slidein-boll-tuo-inverse;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll-tuo-inverse {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(55deg) translateY(-208px) translateX(-35px);
+      }
+    to {
+          transform: rotate(110deg) translateY(0px) translateX(-1px);
+      }
+  
+  }
+  .boll-tuo{
+    animation-duration: 5s;
+    animation-name: slidein-boll-tuo;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll-tuo {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(55deg) translateY(208px) translateX(40px);
+      }
+    to {
+          transform: rotate(110deg) translateY(0px) translateX(-3px);
+      }
+  
+  }
+  
+  
+  .boll-three-reverse{
+    animation-duration: 5s;
+    animation-name: slidein-boll-three-reverse;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll-three-reverse {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(61deg) translateY(-185px) translateX(100px);
+      }
+    to {
+          transform: rotate(120deg) translateY(0px) translateX(-3px);
+      }
+  
+  }
+  
+  .boll-three{
+    animation-duration: 5s;
+    animation-name: slidein-boll-three;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll-three {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(61deg) translateY(185px) translateX(-95px);
+      }
+    to {
+          transform: rotate(120deg) translateY(0px) translateX(-3px);
+      }
+  
+  }
+  .boll-four {
+    animation-duration: 5s;
+    animation-name: slidein-boll-four;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll-four {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(50deg) translateY(-27px) translateX(213px);
+      }
+    to {
+          transform: rotate(115deg) translateY(-10px) translateX(-6px);
+      }
+   
+  }
+  
+  .boll-four-reverse {
+    animation-duration: 5s;
+    animation-name: slidein-boll-four-reverse;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes slidein-boll-four-reverse {
+    from {
+          transform: rotate(0deg) translateY(0px) translateX(5px);
+      } 
+    50% {
+          transform: rotate(55deg) translateY(40px) translateX(-208px);
+      }
+    to {
+          transform: rotate(115deg) translateY(0px) translateX(-8px);
+      }
+  
+  }
+  
+*/

@@ -1,0 +1,9 @@
+.button-save{
+    background: #1a3365c7;
+    border: 1.5px solid #07F2DB;
+    border-radius: 5px;
+    width: 5.5rem;
+    height: 2.2rem;
+    color: white;
+    margin: 30px 10px;
+}
